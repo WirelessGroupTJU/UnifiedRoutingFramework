@@ -1,0 +1,236 @@
+[fo] module load successfully!
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+aodv: processRREP: during reboot time - ignore received RREP
+原来的Error in select
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+aodv: processRREP: during reboot time - ignore received RREP
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+controllen is 56
+aodv: processRREP: entered
+adov: processRREP: not during reboot time
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+原来的Error in select
+sendPacket: ttl is 1
+sendPacket: ttl is 1
+sendPacket: setting ttl 
+ sendPacket: ttl set to 1
+原来的Error in select
+processRecvMsg: ignore messages from the local node
+原来的Error in select
+原来的Error in select
+原来的Error in select

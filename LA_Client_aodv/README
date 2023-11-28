@@ -1,0 +1,30 @@
+Author - Binita Gupta
+University of Illinois, Urbana-Champaign
+binita@uiuc.edu
+--------------------------------------------
+
+This is an implementation of AODV Protocol developed at UIUC. It is called
+AODV-UIUC. It does not need any modifications to the kernel, rather it uses
+ASL-a-0.5. Please see http://aslib.sourceforge.net. Make sure that ASL-a-0.5 is installed before running AODV-UIUC.
+
+Make sure that following kernel options are enabled before running this
+protocol. 
+1) IP forwarding
+
+
+
+To Compile:
+
+$$> make clean
+$$> make
+
+To Run:
+
+Type following to see various command line options.
+$$> ./aodvd -h
+
+To run with default options:
+
+$$> ./aodvd -i <interface name>
+
+

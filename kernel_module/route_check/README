@@ -1,0 +1,27 @@
+
+-------- route_check.o -----------
+route_check module implements support for recording the time of previous use of a route in the kernel routing table. The information is output in /proc/asl/route_check. 
+ This information can be used by user space routing daemons in deleteing stale enries. This is a part of the Ad hoc Support framework. For details see http://www.uiuc.edu/~kawadia/asl.html 
+
+The code is under the GNU Public License.
+
+-Vikas Kawadia
+-----------------------------------
+
+make
+will compile the module.
+Make file can be edited to add the flag -DDEBUG9 to give extra output in system logs
+
+make install 
+will install the module in /lib/modules//lib/modules/$(KVERSION)/kernel/net/ipv4/
+
+make uninstall will delete the module from the above directory
+
+To insert the module :
+insmod route_check.o 
+
+to remove it :
+rmmod route_check
+
+modinfo -d route_check.o 
+gives a brief description.

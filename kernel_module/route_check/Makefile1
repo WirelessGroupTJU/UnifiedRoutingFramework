@@ -1,0 +1,54 @@
+CC=gcc
+
+KVERSION=`uname -r`
+CURRENTDIR=`pwd`
+LOCATE=locate
+
+# if locate not available, use find. uncomment line below
+#LOCATE=find /usr/lib | grep 
+
+# add -DDEBUG9 to the end of the list to print debug messages
+#MODCFLAGS :=  -O3 -Wall -DMODULE -D__KERNEL__ -DLINUX -DDEBUG9
+MODCFLAGS :=  -O3 -Wall -DMODULE -D__KERNEL__ -DLINUX 
+
+# Kernel include files
+KPATH := /lib/modules/$(KVERSION)/build/include/ 
+			
+
+COMPILE := $(CC) $(MODCFLAGS) -I$(KPATH)
+
+OBJ=module_main.o route_cache.o utils.o
+
+LINK := ld -m elf_i386 -r   
+
+SRC := $(wildcard *.c)
+
+
+all:    route_check.o
+
+
+##  Build
+
+%.o:	%.c
+		$(COMPILE) -c $< -o $@
+
+## Link
+
+route_check.o:	$(OBJ:.o=.o)
+		@echo "Linking..."
+		$(LINK) -o route_check.o $(OBJ:.o=.o) `$(LOCATE) libgcc.a`
+		@rm $(OBJ)
+
+install:
+	@echo Installing route_check.o in /lib/modules/$(KVERSION)/kernel/net/ipv4/
+	@cp -f ./route_check.o /lib/modules/$(KVERSION)/kernel/net/ipv4/
+
+uninstall:
+	@rm -f ./lib/modules/$(KVERSION)/kernel/net/ipv4/
+
+clean:	
+	@echo "Removing .o files..."
+	@rm *.o -f
+
+
+

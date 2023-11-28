@@ -1,0 +1,1 @@
+cmd_/home/odessy/LocalPlatform/local_routing_platform/lib/ODS/ODS_kernel/Module.symvers := sed 's/\.ko$$/\.o/' /home/odessy/LocalPlatform/local_routing_platform/lib/ODS/ODS_kernel/modules.order | scripts/mod/modpost -m -a  -o /home/odessy/LocalPlatform/local_routing_platform/lib/ODS/ODS_kernel/Module.symvers -e -i Module.symvers   -T -
